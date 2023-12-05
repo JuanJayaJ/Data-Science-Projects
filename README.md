@@ -2,7 +2,7 @@
 
 In this project, it was established that machine learning can effectively "predict crop yields" based on historical climate and environmental data.
 
-# Models Used
+## Models Used
 Several machine learning models were tested which includes:
 1. Ensemble methods
 2. Neural network
